@@ -1,6 +1,6 @@
 # Explodiballs
 ## About
-A datapack that adds exploding snowballs
+A datapack that adds exploding snowballs and arrows
 Made with a love for tnt by Jevalent
 
 ## Install
